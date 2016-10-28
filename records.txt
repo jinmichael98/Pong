@@ -1,0 +1,7 @@
+\bob\5
+\[BOT]Sylvia\3
+\[BOT]Jerry\3
+\[BOT]Alfred\2
+\spike\1
+\ME AND ME\1
+\marco\1
